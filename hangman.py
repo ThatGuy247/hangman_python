@@ -13,7 +13,7 @@ word = choice(words).casefold()
 vague_word = '*' * len(word)
 
 count_wrong_guess = 0
-count_round = 0
+count_round = 0 
 
 guess_right_memory = {}
 guess_wrong_memory = {}
