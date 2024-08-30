@@ -2,7 +2,7 @@
 """
 Created on Tue Nov  9 10:36:05 2021
 
-@author: thatguy  
+@author: thatguy 
 """   
 from termcolor import colored   
 from colorama import Fore, Style
