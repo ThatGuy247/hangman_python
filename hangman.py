@@ -4,7 +4,7 @@ Created on Tue Nov  9 10:36:05 2021
 
 @author: thatguy
 """    
-from termcolor import colored   
+from termcolor import colored  
 from colorama import Fore, Style
 from random import choice  
  
