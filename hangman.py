@@ -8,7 +8,7 @@ from termcolor import colored
 from colorama import Fore, Style
 from random import choice  
  
-words = ['arMan','Ali']  
+words = ['arMan','Ali']    
 word = choice(words).casefold()
 vague_word = '*' * len(word)
 
